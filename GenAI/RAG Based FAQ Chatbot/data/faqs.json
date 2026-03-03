@@ -1,0 +1,163 @@
+{
+  "faqs": [
+    {
+      "id": "PAY_001",
+      "category": "Payments",
+      "question": "What payment methods are accepted?",
+      "answer": "We accept credit cards, debit cards, net banking, UPI, wallets, and select buy-now-pay-later options. Available methods may vary by location and order value."
+    },
+    {
+      "id": "PAY_002",
+      "category": "Payments",
+      "question": "Is it safe to make payments on the platform?",
+      "answer": "Yes, all payments are processed through secure and encrypted payment gateways. We do not store your card details on our servers."
+    },
+    {
+      "id": "PAY_003",
+      "category": "Payments",
+      "question": "Why did my payment fail but the amount got debited?",
+      "answer": "In rare cases, banks may debit the amount even if the transaction fails. The debited amount is usually refunded automatically within 5–7 business days."
+    },
+    {
+      "id": "PAY_004",
+      "category": "Payments",
+      "question": "Can I use Cash on Delivery?",
+      "answer": "Cash on Delivery is available on select products and locations. Eligibility depends on your delivery address and order value."
+    },
+
+    {
+      "id": "DEL_001",
+      "category": "Delivery",
+      "question": "What are the delivery timelines?",
+      "answer": "Delivery timelines vary based on your location, seller, and product availability. Estimated delivery dates are shown during checkout."
+    },
+    {
+      "id": "DEL_002",
+      "category": "Delivery",
+      "question": "How can I track my order?",
+      "answer": "Once your order is shipped, you can track it from the 'My Orders' section using the tracking link provided."
+    },
+    {
+      "id": "DEL_003",
+      "category": "Delivery",
+      "question": "Do you offer same-day or express delivery?",
+      "answer": "Same-day or express delivery is available in select cities for eligible products. Options will be shown at checkout if applicable."
+    },
+    {
+      "id": "DEL_004",
+      "category": "Delivery",
+      "question": "What happens if I am not available at the time of delivery?",
+      "answer": "Our delivery partner will attempt re-delivery. If delivery fails multiple times, the order may be returned to the seller."
+    },
+
+    {
+      "id": "RET_001",
+      "category": "Returns",
+      "question": "What is your return policy?",
+      "answer": "Most products can be returned within the specified return window, provided they are unused and in original packaging. Return eligibility varies by product."
+    },
+    {
+      "id": "RET_002",
+      "category": "Returns",
+      "question": "How do I initiate a return?",
+      "answer": "You can initiate a return from the 'My Orders' section by selecting the item and choosing the return option."
+    },
+    {
+      "id": "RET_003",
+      "category": "Returns",
+      "question": "Are there any products that cannot be returned?",
+      "answer": "Certain items like personal care products, innerwear, and customized items may not be eligible for return due to hygiene or customization reasons."
+    },
+
+    {
+      "id": "REF_001",
+      "category": "Refunds",
+      "question": "When will I receive my refund?",
+      "answer": "Refunds are initiated after the returned item passes quality checks. The amount is typically credited within 5–10 business days."
+    },
+    {
+      "id": "REF_002",
+      "category": "Refunds",
+      "question": "Will I get a full refund?",
+      "answer": "You will receive a full refund if the return meets policy conditions. Shipping or convenience fees may be non-refundable in some cases."
+    },
+    {
+      "id": "REF_003",
+      "category": "Refunds",
+      "question": "How will the refund be processed?",
+      "answer": "Refunds are processed to the original payment method used during purchase. For Cash on Delivery orders, refunds may be issued to your bank account or wallet."
+    },
+
+    {
+      "id": "QUAL_001",
+      "category": "Product Quality",
+      "question": "Are the products genuine?",
+      "answer": "Yes, we ensure that all products sold on our platform are genuine and sourced from verified sellers."
+    },
+    {
+      "id": "QUAL_002",
+      "category": "Product Quality",
+      "question": "What should I do if I receive a damaged or defective product?",
+      "answer": "If you receive a damaged or defective item, please raise a return or replacement request within the specified time window from the 'My Orders' section."
+    },
+
+    {
+      "id": "ORD_001",
+      "category": "Orders",
+      "question": "Can I cancel my order?",
+      "answer": "Orders can be cancelled before they are shipped. Once shipped, cancellation may not be possible."
+    },
+    {
+      "id": "ORD_002",
+      "category": "Orders",
+      "question": "Can I modify my order after placing it?",
+      "answer": "Order modifications are not supported after confirmation. You may cancel the order and place a new one if needed."
+    },
+
+    {
+      "id": "ACC_001",
+      "category": "Account",
+      "question": "Do I need an account to place an order?",
+      "answer": "Yes, an account is required to place orders so you can track purchases, manage returns, and receive updates."
+    },
+    {
+      "id": "ACC_002",
+      "category": "Account",
+      "question": "I forgot my password. What should I do?",
+      "answer": "You can reset your password using the 'Forgot Password' option on the login page."
+    },
+
+    {
+      "id": "OFF_001",
+      "category": "Offers & Discounts",
+      "question": "How do I apply a coupon code?",
+      "answer": "Coupon codes can be applied at checkout in the designated coupon section before making the payment."
+    },
+    {
+      "id": "OFF_002",
+      "category": "Offers & Discounts",
+      "question": "Why is my coupon not working?",
+      "answer": "Coupons may have usage limits, expiry dates, or product restrictions. Please check the terms and conditions of the offer."
+    },
+
+    {
+      "id": "SEC_001",
+      "category": "Security & Privacy",
+      "question": "How is my personal data used?",
+      "answer": "Your personal data is used only to process orders, provide customer support, and improve your shopping experience, as per our privacy policy."
+    },
+
+    {
+      "id": "SUP_001",
+      "category": "Customer Support",
+      "question": "How can I contact customer support?",
+      "answer": "You can reach customer support through the Help section on the app or website via chat, email, or call."
+    },
+    {
+      "id": "SUP_002",
+      "category": "Customer Support",
+      "question": "What are your customer support working hours?",
+      "answer": "Customer support is available 24x7, although response times may vary during peak hours."
+    }
+  ]
+}
