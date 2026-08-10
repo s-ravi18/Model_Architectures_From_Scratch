@@ -1,0 +1,101 @@
+id,text,sentiment
+1,"I loved the product, it works perfectly.",positive
+2,"The service was excellent and very quick.",positive
+3,"Absolutely amazing experience, I will buy again.",positive
+4,"The food was delicious and fresh.",positive
+5,"I am very happy with my purchase.",positive
+6,"The app is smooth, fast, and easy to use.",positive
+7,"Great quality for the price.",positive
+8,"The delivery arrived early and everything was intact.",positive
+9,"Customer support solved my problem immediately.",positive
+10,"This is one of the best products I have used.",positive
+11,"The movie was entertaining and surprisingly good.",positive
+12,"I really enjoyed the friendly service.",positive
+13,"The phone has a beautiful design and great performance.",positive
+14,"The instructions were clear and helpful.",positive
+15,"I would definitely recommend this to my friends.",positive
+16,"The room was clean, comfortable, and spacious.",positive
+17,"I received exactly what I expected.",positive
+18,"The team was professional and polite.",positive
+19,"The battery lasts long and charges quickly.",positive
+20,"Fantastic experience from start to finish.",positive
+21,"I am disappointed with the product quality.",negative
+22,"The service was slow and frustrating.",negative
+23,"The food was cold and tasteless.",negative
+24,"I regret buying this product.",negative
+25,"The app keeps crashing every few minutes.",negative
+26,"The delivery was late and the package was damaged.",negative
+27,"Customer support was rude and unhelpful.",negative
+28,"This product is overpriced for what it offers.",negative
+29,"The movie was boring and too long.",negative
+30,"I expected much better performance.",negative
+31,"The phone became hot after a few minutes.",negative
+32,"The instructions were confusing and incomplete.",negative
+33,"I would not recommend this product.",negative
+34,"The room was dirty and uncomfortable.",negative
+35,"The quality feels cheap and unreliable.",negative
+36,"My order arrived with missing items.",negative
+37,"The staff ignored my complaint.",negative
+38,"The battery drains extremely fast.",negative
+39,"This was a terrible experience overall.",negative
+40,"I am not satisfied with my purchase.",negative
+41,"The product is okay, nothing special.",neutral
+42,"The service was neither fast nor slow.",neutral
+43,"The food was average and acceptable.",neutral
+44,"I have mixed feelings about the app.",neutral
+45,"The delivery arrived on time.",neutral
+46,"The phone works as expected.",neutral
+47,"The movie was decent but forgettable.",neutral
+48,"The room was clean but quite small.",neutral
+49,"Customer support answered my question.",neutral
+50,"The design is simple and functional.",neutral
+51,"I expected more, but it is usable.",neutral
+52,"The product meets my basic needs.",neutral
+53,"The experience was ordinary.",neutral
+54,"The quality is acceptable for the price.",neutral
+55,"The app works, although it feels basic.",neutral
+56,"I neither like nor dislike this product.",neutral
+57,"The food was fine, but not memorable.",neutral
+58,"The service was okay overall.",neutral
+59,"I received the order without any issues.",neutral
+60,"The performance is average.",neutral
+61,"The instructions are understandable.",neutral
+62,"The product does what it claims.",neutral
+63,"The movie was neither great nor terrible.",neutral
+64,"The room was adequate for one night.",neutral
+65,"The staff were polite but not especially helpful.",neutral
+66,"I am satisfied, although there is room for improvement.",neutral
+67,"The new update made the app faster.",neutral
+68,"The headphones have excellent sound quality.",neutral
+69,"I really appreciate the quick delivery.",neutral
+70,"The packaging looked premium and secure.",neutral
+71,"The checkout process was incredibly easy.",positive
+72,"The product exceeded all my expectations.",positive
+73,"I had a wonderful experience with the team.",positive
+74,"The camera takes sharp and beautiful photos.",positive
+75,"The food tasted fresh and flavorful.",positive
+76,"The hotel staff made our stay enjoyable.",positive
+77,"This purchase was absolutely worth the money.",positive
+78,"The app responds quickly to every command.",positive
+79,"I am impressed by the build quality.",positive
+80,"The replacement process was smooth and convenient.",positive
+81,"The product feels reliable and well designed.",positive
+82,"I would happily purchase this again.",positive
+83,"The service team went above and beyond.",positive
+84,"The screen is bright, clear, and responsive.",positive
+85,"I enjoyed using this product every day.",positive
+86,"The delivery was fast and carefully handled.",positive
+87,"This is a fantastic value for the price.",positive
+88,"The support team was patient and professional.",positive
+89,"The product arrived perfectly packed.",positive
+90,"I am extremely pleased with the results.",positive
+91,"The experience was better than I expected.",positive
+92,"The quality is outstanding.",positive
+93,"I highly recommend this product.",positive
+94,"The app is intuitive and pleasant to use.",positive
+95,"The staff were welcoming and efficient.",positive
+96,"This product made my life much easier.",positive
+97,"I could not be happier with my purchase.",positive
+98,"The overall experience was excellent.",positive
+99,"I was unhappy with how the complaint was handled.",negative
+100,"The product is neither impressive nor disappointing.",neutral
